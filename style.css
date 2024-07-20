@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #ff014f;
+  --color-primary: #a30202;
   --color-secondary: #f4f5f6;
   --color-tertiary: #0d1013;
   --color-gray: #f6f6f6;
@@ -84,7 +84,7 @@
   background-color: #c4cfde;
 }
 .text-main {
-  color: #ff014f;
+  color: #a30202;
 }
 .text-lightn {
   color: #c4cfde;
@@ -224,7 +224,7 @@ button {
   display: block;
   width: 0;
   height: 2px;
-  background: #ff014f;
+  background: #a30202;
   transition: width 0.3s;
 }
 .custom-underline:hover::after {
@@ -426,7 +426,7 @@ section .title {
   border: 0;
 }
 .popup-mobile-menu .inner .menu-top .menu-header .close-button .close svg {
-  color: #ff014f;
+  color: #a30202;
   height: auto;
 }
 
